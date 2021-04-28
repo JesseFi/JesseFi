@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JesseFi
-- 👀 I’m interested in Java Object Orientation
-- 🌱 I’m currently learning Java Object Orientation, JavaScript and Scrum Methodology
-- 💞️ I’m looking to collaborate on open source projects
+- 👋 Hi, I’m Jessé Figueró.
+- 👀 I’m interested in Java Object Orientation.
+- 🌱 I’m currently learning Java Object Orientation, JavaScript and Scrum Methodology.
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me @jessefiguero_
 
 <!---
